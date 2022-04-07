@@ -1,0 +1,17 @@
+{
+    "name": "mathiasbretonneau/composer_3",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathias Bretonneau",
+            "email": "Mathias.rodrigues@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
